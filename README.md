@@ -10,6 +10,7 @@
 - Lateinit kullanımından bahseder misiniz?
 - Lateinit için bir örnek kullanım gösterir misiniz ?
 
+#### Cevaplar:
 **Değişkenlerde var ve val arasındaki fark nedir?**
 
 Val değişkenler bir kere tanımlanıp daha sonra değiştirilemeyen sabit değerler oluşturur. Var değişkenler ise normal bir şekilde değişken tanımlamasında kullanılır ve sonrasında dilendiği gibi kullanılır.
@@ -51,7 +52,7 @@ Yukarıdaki ilk kod satırında tempVar değişkeninin null değere sahip olabil
 - Nasıl kullanılmalıdır ?
 - Bir adet Tools (tools namespace) attribute kullanımını gösterir misiniz ? 
 
-
+#### Cevaplar:
 
 Namespace nedir, ne için kullanılır?
 
