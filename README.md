@@ -69,5 +69,4 @@ Namespace nasıl kullanılır?
  ```
  
 yukaradaki xml kod bloğundaki tools:tagetApi namespace i söz konusu viewı destekleyen API levelını belirtmek için kullanılır. 
-tools:shrink, tools:keep gibi namespaceler ise Proguard gibi araçların kodu karıştırıp karıştırmamasına izin vermek için kullanılır. Bunlar gibi bir çok örneği mevcuttur.![image](https://user-images.githubusercontent.com/48292974/163450197-8e1d256e-0642-42d1-93a6-91c277389768.png)
-
+tools:shrink, tools:keep gibi namespaceler ise Proguard gibi araçların kodu karıştırıp karıştırmamasına izin vermek için kullanılır. Bunlar gibi bir çok örneği mevcuttur.
