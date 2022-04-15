@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="StartPageTitleStyle">
+        <item name="android:fontFamily">@font/acme</item>
+        <item name="android:textColor">#2C2B47</item>
+        <item name="android:text">@string/start_title</item>
+        <item name="android:textSize">38sp</item>
+    </style>
+
+    <style name="StartPageAskAccountStyle">
+        <item name="android:fontFamily">@font/acme</item>
+        <item name="android:textColor">#B9B8C6</item>
+        <item name="android:text">@string/start_ask_account</item>
+    </style>
+
+    <style name="StartPageSignUpStyle">
+        <item name="android:fontFamily">@font/acme</item>
+        <item name="android:textColor">#2C2B47</item>
+        <item name="android:text">@string/start_signup</item>
+    </style>
+
+    <style name="ButtonStyle">
+        <item name="android:fontFamily">@font/acme</item>
+        <item name="android:backgroundTint">#2C2B47</item>
+    </style>
+
+    <style name="StartPagePasswordStyle">
+        <item name="android:fontFamily">@font/acme</item>
+        <item name="android:hint">@string/start_password</item>
+        <item name="android:textColorHint">#2C2B47</item>
+    </style>
+
+    <style name="StartPageEmailStyle">
+        <item name="android:fontFamily">@font/acme</item>
+        <item name="android:hint">@string/start_email</item>
+        <item name="android:textColorHint">#2C2B47</item>
+    </style>
+
+    <style name="MainPageTitle">
+        <item name="android:fontFamily">@font/acme</item>
+        <item name="android:text">@string/main_title</item>
+        <item name="android:textColor">#2C2B47</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">38sp</item>
+    </style>
+
+    <style name="MainPageSubTitle">
+        <item name="android:fontFamily">@font/acme</item>
+        <item name="android:text">@string/main_sub_title</item>
+        <item name="android:textColor">#B9B8C6</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="PremiumPageTitle">
+        <item name="android:fontFamily">@font/acme</item>
+        <item name="android:textColor">#2C2B47</item>
+        <item name="android:text">@string/premium_title</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">38sp</item>
+    </style>
+
+    <style name="PremiumLeftTextStyle">
+        <item name="android:fontFamily">@font/acme</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:text">@string/premium_monthly</item>
+    </style>
+
+    <style name="PremiumRightTextStyle">
+        <item name="android:fontFamily">@font/acme</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:text">@string/premium_yearly</item>
+    </style>
+</resources>
