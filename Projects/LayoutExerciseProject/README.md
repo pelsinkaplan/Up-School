@@ -9,9 +9,9 @@ You can find the UI gif below.
 
 What did I do:
 
-The styles resources file has been created.
-The string resources file has been customized.
-viewBinding is used.
-Vector assets were created in the drawable file.
-ConstraintLayout is used.
-The intent structure was used for transitions between activities.
+- The styles resources file has been created.
+- The string resources file has been customized.
+- viewBinding is used.
+- Vector assets were created in the drawable file.
+- ConstraintLayout is used.
+- The intent structure was used for transitions between activities.
