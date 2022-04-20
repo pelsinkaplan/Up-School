@@ -5,7 +5,7 @@ https://www.sketchappsources.com/free-source/4762-design-courses-app-sketch-free
 
 You can find the UI gif below.
 
-<img src="https://github.com/pelsinkaplan/Upschool-Progress/blob/main/Projects/LayoutExerciseProject/LayoutExerciseProjectGif.gif" width="200" height="400">
+<img src="https://github.com/pelsinkaplan/Upschool-Progress/blob/main/Projects/LayoutExerciseProject/ProjectGif.gif" width="200" height="400">
 
 What did I do:
 
