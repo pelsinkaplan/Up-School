@@ -1,96 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".StartActivity">
+    xmlns:tools="http://schemas.android.com/tools">
 
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="48dp"
-        android:layout_marginBottom="8dp"
-        app:layout_constraintBottom_toTopOf="@+id/start_title"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/ic_start_image" />
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".StartActivity">
 
-    <TextView
-        android:id="@+id/start_title"
-        style="@style/StartPageTitleStyle"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="16dp"
-        app:layout_constraintBottom_toTopOf="@+id/start_email_edittext"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="48dp"
+            android:layout_marginBottom="8dp"
+            app:layout_constraintBottom_toTopOf="@+id/start_title"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/ic_start_image" />
 
-    <EditText
-        android:id="@+id/start_email_edittext"
-        style="@style/StartPagePasswordStyle"
-        android:layout_width="300dp"
-        android:layout_height="40dp"
-        android:layout_marginBottom="16dp"
-        android:background="@drawable/ic_start_edittext"
-        android:hint="@string/start_email"
-        app:layout_constraintBottom_toTopOf="@+id/start_password_edittext"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/start_title" />
+        <TextView
+            android:id="@+id/start_title"
+            style="@style/StartPageTitleStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            app:layout_constraintBottom_toTopOf="@+id/start_email_edittext"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
-
-    <EditText
-        android:id="@+id/start_password_edittext"
-        style="@style/StartPagePasswordStyle"
-        android:layout_width="300dp"
-        android:layout_height="40dp"
-        android:layout_marginBottom="24dp"
-        android:background="@drawable/ic_start_edittext"
-        android:drawableEnd="@drawable/ic_eye_solid"
-        app:layout_constraintBottom_toTopOf="@+id/button_sign_in"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/start_email_edittext" />
-
-    <Button
-        android:id="@+id/button_sign_in"
-        style="@style/ButtonStyle"
-        android:layout_width="165dp"
-        android:layout_height="60dp"
-        android:layout_marginBottom="1dp"
-        android:text="@string/start_button"
-        app:layout_constraintBottom_toTopOf="@+id/start_ask_account"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/start_password_edittext" />
-
-    <TextView
-        android:id="@+id/start_ask_account"
-        style="@style/StartPageAskAccountStyle"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
-        android:layout_marginStart="108dp"
-        android:layout_marginEnd="5dp"
-        android:layout_marginBottom="16dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@+id/text_sign_up"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button_sign_in" />
-
-    <TextView
-        android:id="@+id/text_sign_up"
-        style="@style/StartPageSignUpStyle"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="1dp"
-        android:layout_marginEnd="124dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/start_ask_account"
-        app:layout_constraintTop_toBottomOf="@+id/button_sign_in" />
+        <EditText
+            android:id="@+id/start_email_edittext"
+            style="@style/StartPagePasswordStyle"
+            android:layout_width="300dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/ic_start_edittext"
+            android:hint="@string/start_email"
+            app:layout_constraintBottom_toTopOf="@+id/start_password_edittext"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/start_title" />
 
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+        <EditText
+            android:id="@+id/start_password_edittext"
+            style="@style/StartPagePasswordStyle"
+            android:layout_width="300dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="24dp"
+            android:background="@drawable/ic_start_edittext"
+            android:drawableEnd="@drawable/ic_eye_solid"
+            app:layout_constraintBottom_toTopOf="@+id/button_sign_in"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/start_email_edittext" />
+
+        <Button
+            android:id="@+id/button_sign_in"
+            style="@style/ButtonStyle"
+            android:layout_width="126dp"
+            android:layout_height="58dp"
+            android:layout_marginBottom="1dp"
+            android:text="@string/start_button"
+            app:layout_constraintBottom_toTopOf="@+id/start_ask_account"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/start_password_edittext" />
+
+        <TextView
+            android:id="@+id/start_ask_account"
+            style="@style/StartPageAskAccountStyle"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginStart="108dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginBottom="16dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/text_sign_up"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/button_sign_in" />
+
+        <TextView
+            android:id="@+id/text_sign_up"
+            style="@style/StartPageSignUpStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:layout_marginEnd="124dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/start_ask_account"
+            app:layout_constraintTop_toBottomOf="@+id/button_sign_in" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</layout>
