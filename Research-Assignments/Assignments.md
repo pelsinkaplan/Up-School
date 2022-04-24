@@ -90,6 +90,9 @@ Bir uygulama yazılacağı zaman genellikle bütün alanlarda kullanılabilek i�
 
 İstenilen fontların dosyalarını indirdikten sonra kendi oluşturudğunuz font.xml dosyasında bir araya getirebilirsiniz. Fontları resources olarak paketlemek için font dosyasını res/font/ klasörüne eklersek, bu fontlar R dosyanızda derlenir ve Android Studio'da otomatik olarak bulunur.
 
+<p align="center">
+<img src="https://github.com/pelsinkaplan/Upschool-Progress/blob/main/Research-Assignments/creating_font_file.png" width="400" height="250">
+</p>
 
 
 
