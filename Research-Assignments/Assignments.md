@@ -82,7 +82,6 @@ tools:shrink, tools:keep gibi namespaceler ise Proguard gibi araçların kodu ka
 - Font family dosyası nasıl oluşturulup kullanıyoruz?
 - Neden belirttiğiniz şekilde kullanımı tercih ediyoruz?
 
-P.S. [Bu linkten](https://developer.android.com/guide/topics/ui/look-and-feel/fonts-in-xml ) faydalanarak font family projenizde deneyebilirsiniz.
 
 #### Cevaplar:
 
@@ -94,6 +93,7 @@ Bir uygulama yazılacağı zaman genellikle bütün alanlarda kullanılabilek i�
 <img src="https://github.com/pelsinkaplan/Upschool-Progress/blob/main/Research-Assignments/creating_font_file.png" width="400" height="250">
 </p>
 
+[Bu linkten](https://developer.android.com/guide/topics/ui/look-and-feel/fonts-in-xml ) faydalanarak font family hakkında ayrıntılı bilgi öğrenebilirsiniz.
 
 
 ----
