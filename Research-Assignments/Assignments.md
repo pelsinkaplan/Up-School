@@ -24,7 +24,7 @@ Lateinit var olarak tanımlanan, yani sonradan değişebilecek değişkenler iç
 
 **Lateinit nasıl kullanılır?**
 
-```
+```kotlin
 lateinit var variableName : String 
 variableName = “variable”
 ```
@@ -36,7 +36,7 @@ Değişkenin null değere sahip olup olamayacağını bildirir. Bu tarz değişk
 
 **Nullable değişkenler nasıl kullanılır?**
 
-```
+```kotlin
 Var tempVar : String?
 tempVar!!
 tempVar?
@@ -63,7 +63,7 @@ Uygulamanın xml tarafındaki değşikliklerini anlık olarak, derlenmeden gör�
 
 **Namespace nasıl kullanılır?**
 
-```
+```xml
 <Button
 	android:layout_width = “wrap_content”
 	android:layout_height = “wrap_content”
@@ -95,7 +95,7 @@ Bir uygulama yazılacağı zaman genellikle bütün alanlarda kullanılabilek i�
 
 Bir font dosyası örneği:
 
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <font-family xmlns:android="http://schemas.android.com/apk/res/android">
     <font
