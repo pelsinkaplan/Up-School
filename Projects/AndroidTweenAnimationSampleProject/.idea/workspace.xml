@@ -9,54 +9,23 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c72a03a2-9f48-4cf0-94ec-f165291c3e28" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/app/src/androidTest/java/com/pelsinkaplan/androidtweenanimationsampleproject/ExampleInstrumentedTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/app/src/main/java/com/pelsinkaplan/androidtweenanimationsampleproject/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/app/src/test/java/com/pelsinkaplan/androidtweenanimationsampleproject/ExampleUnitTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidTweenAnimationSampleProject2/settings.gradle" beforeDir="false" />
+    <list default="true" id="c72a03a2-9f48-4cf0-94ec-f165291c3e28" name="Default Changelist" comment="AndroidTweenAnimationSampleProject Initial Commit.">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pelsinkaplan/androidtweenanimationsampleproject/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pelsinkaplan/androidtweenanimationsampleproject/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/Users/pelsinkaplan/.android/avd/Pixel_3_XL_API_28.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[pzp76xqozdsous9t]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -90,8 +59,18 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="78c2f6b9-9d55-4a03-ab79-d294930060e8" />
   </component>
   <component name="ProjectId" id="287MjnqKAOoCKihX9zETAXq5kWp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -104,11 +83,19 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="memory.settings.postsync.last.time.stamp" value="1650563312216" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/font" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1650964769630" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/font" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/anim" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="AndroidTweenAnimationSampleProject.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -177,6 +164,37 @@
       <option name="presentableId" value="Default" />
       <updated>1650563308830</updated>
     </task>
+    <task id="LOCAL-00001" summary="AndroidTweenAnimationSampleProject Initial Commit.">
+      <created>1650563981699</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650563981699</updated>
+    </task>
+    <task id="LOCAL-00002" summary="AndroidTweenAnimationSampleProject Initial Commit.">
+      <created>1650564036229</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650564036229</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="AndroidTweenAnimationSampleProject Initial Commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="AndroidTweenAnimationSampleProject Initial Commit." />
   </component>
 </project>
