@@ -93,6 +93,32 @@ Bir uygulama yazılacağı zaman genellikle bütün alanlarda kullanılabilek i�
 <img src="https://github.com/pelsinkaplan/Upschool-Progress/blob/main/Research-Assignments/creating_font_file.png" width="400" height="250">
 </p>
 
+Bir font dosyası örneği:
+
+```
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="700"
+        android:font="@font/ubuntu_bold" />
+    <font
+        android:fontStyle="italic"
+        android:fontWeight="400"
+        android:font="@font/ubuntu_italic" />
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="200"
+        android:font="@font/ubuntu_light" />
+</font-family>
+ ```
+ adını **ubuntu** koyduğumuz font dosyasını kullanabilmek için aşağıdaki kod parçası yeterli olacaktır.
+ 
+ ```
+android:fontFamily="@font/ubuntu"
+ ```
+
+
 [Bu linkten](https://developer.android.com/guide/topics/ui/look-and-feel/fonts-in-xml ) faydalanarak font family hakkında ayrıntılı bilgi öğrenebilirsiniz.
 
 
