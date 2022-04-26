@@ -114,7 +114,7 @@ Bir font dosyası örneği:
  ```
  adını **ubuntu** koyduğumuz font dosyasını kullanabilmek için aşağıdaki kod parçası yeterli olacaktır.
  
- ```
+ ```xml
 android:fontFamily="@font/ubuntu"
  ```
 
