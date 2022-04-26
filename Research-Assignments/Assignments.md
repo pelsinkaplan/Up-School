@@ -132,6 +132,7 @@ P.S. [Bu linkten](https://developer.android.com/guide/topics/resources/animation
 
 #### Cevaplar:
 
-
+ObjectAnimator belirli bir süre boyunca bir nesnenin belirli bir özelliğini canlandırır. 
+Animator ise belirli bir süre boyunca bir animasyonu gerçekleştirir.
 
 ----
